@@ -11,3 +11,4 @@ update 3-print_number.py
 create 4-print_float.py
 update 4-print_float.py
 create 5-print_string.py
+create 6-concat.py
