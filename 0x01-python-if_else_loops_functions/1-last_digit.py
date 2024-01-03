@@ -16,3 +16,5 @@ elif number < 0:
         print("and is less than 6 and not 0")
     elif n == 0:
         print("and is 0")
+else
+    print("Last digit of",number, "is 0 and is 0")
