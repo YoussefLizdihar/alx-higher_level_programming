@@ -14,3 +14,4 @@ create 5-print_comb2.py
 create the main dir
 update 0-add
 create 1-calculation.py
+update 1-calculation.py
