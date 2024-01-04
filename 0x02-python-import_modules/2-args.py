@@ -7,6 +7,6 @@ if __name__ == "__main__":
         print(".")
     else:
         print()
-    for i in range(1, args + 1):
-        print("{:d}: {}".format(i, argv[i]))
+        for i in range(1, args + 1):
+            print("{:d}: {}".format(i, argv[i]))
 
