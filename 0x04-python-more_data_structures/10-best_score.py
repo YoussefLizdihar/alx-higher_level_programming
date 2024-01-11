@@ -2,5 +2,11 @@
 def best_score(a_dictionary):
     if a_dictionary is None:
         return
-    best_key = max(a_dictionary, key=a_dictionary.get)
-    return best_key
+    j = 0
+    i = None
+    new_dict = a_dictionary.copy()
+    for y, x in new_dict.items():
+        if x > j:
+            j = x
+            i = y
+    return i
