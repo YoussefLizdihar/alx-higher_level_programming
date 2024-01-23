@@ -10,6 +10,6 @@ def safe_print_list_integers(my_list=[], x=0):
                 n += 1
                 continue
         print()
-    except IndexError:
+    except (IndexError, TypeError):
         None
     return n
