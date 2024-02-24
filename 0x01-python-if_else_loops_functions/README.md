@@ -28,3 +28,4 @@ create 10-add.py
 create 11
 up 11
 upd 11
+11 up
