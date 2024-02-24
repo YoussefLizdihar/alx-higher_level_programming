@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 
-def poww(a, b):
+def pow(a, b):
     return a ** b
