@@ -4,9 +4,9 @@ def uppercase(str):
     g = ""
     for j in range(str):
         if (ord('a') <= ord(j) <= ord('z')):
-            x = ord(ch) - 32
+            x = ord(j) - 32
             y = chr (x)
-            g = g + y
-            print(g)
+            print(y, end="")
         else:
-            print(j)
+            print(j, end="")
+    print()

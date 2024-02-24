@@ -14,3 +14,4 @@ create 5-print_comb2.py
 create 6-print_comb3.py
 up 6
 create 7-islower.py
+create 8
