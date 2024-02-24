@@ -18,3 +18,4 @@ create 8
 up 8
 up 8
 up 8
+up 8
