@@ -37,3 +37,4 @@ create 100
 up 100
 up 1000
 100
+cr 101-remove_char_at.py
