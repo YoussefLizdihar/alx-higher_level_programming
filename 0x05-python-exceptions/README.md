@@ -16,3 +16,4 @@ create 4-list_division.py
 create 5-raise_exception.py
 create 6-raise_exception_msg.py
 create 100
+create 101
