@@ -12,3 +12,4 @@ create 2
 up 2
 up 1 and 2
 create 3-square.py
+up 3
