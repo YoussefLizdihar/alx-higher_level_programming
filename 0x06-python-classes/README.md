@@ -9,3 +9,4 @@ create 1
 up 1
 up again 1
 create 2
+up 2
