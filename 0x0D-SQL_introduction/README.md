@@ -8,3 +8,4 @@ create 3
 create 4
 create 5
 up 5
+create 6
