@@ -15,3 +15,4 @@ create 3-square.py
 up 3
 create 4-square.py
 create 5
+create 6
