@@ -16,3 +16,4 @@ up 3
 create 4-square.py
 create 5
 create 6
+update 6
