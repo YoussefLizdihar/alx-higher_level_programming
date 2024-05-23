@@ -24,3 +24,4 @@ create 101-square.py
 create 102-square.py
 create 103-magic_class.py
 up 103
+update 103
