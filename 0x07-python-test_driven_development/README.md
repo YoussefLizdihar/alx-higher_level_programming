@@ -11,3 +11,4 @@ up 3
 create 4 and test4
 create 5
 create 5
+create 6
