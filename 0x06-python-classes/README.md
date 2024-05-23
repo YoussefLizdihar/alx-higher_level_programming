@@ -18,3 +18,4 @@ create 5
 create 6
 update 6
 update file num 6
+create 100
