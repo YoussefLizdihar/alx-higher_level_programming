@@ -15,3 +15,4 @@ create 6
 create 6
 up 6
 create 100 101 102
+create 100

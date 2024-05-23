@@ -1,7 +1,10 @@
 #!/usr/bin/python3
 
 """
-Module composed by a function that multiplies 2 matrices
+Module composed by one function lazy_matrix_mul
+Args:
+        m_a (list of lists of int/float): The first matrix.
+        m_b (list of lists of int/float): The second matrix.
 """
 
 
@@ -12,10 +15,6 @@ import numpy as np
 def lazy_matrix_mul(m_a, m_b):
     """
     Multiplies two matrices using NumPy.
-
-    Args:
-        m_a (list of lists of int/float): The first matrix.
-        m_b (list of lists of int/float): The second matrix.
 
     Returns:
         list of lists of int/float: The resulting matrix product.
