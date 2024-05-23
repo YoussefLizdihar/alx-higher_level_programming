@@ -13,3 +13,4 @@ create 5
 create 5
 create 6
 create 6
+up 6
