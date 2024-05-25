@@ -5,3 +5,4 @@ update 0
 uodate 0
 create 1-rectangle.py
 create 2-rectangle.py
+create 3-rectangle.py
