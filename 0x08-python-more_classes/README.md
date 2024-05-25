@@ -11,3 +11,4 @@ create  4-rectangle.py
 create 5-rectangle.py
 create 6-rectangle.py
 update 6
+create 7-rectangle.py
