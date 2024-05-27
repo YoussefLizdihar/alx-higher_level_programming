@@ -4,6 +4,6 @@ Write an empty class BaseGeometry.
 """
 
 
-class MyList(list):
+class BaseGeometry:
     """empty class"""
     pass
