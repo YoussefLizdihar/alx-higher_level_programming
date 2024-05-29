@@ -15,3 +15,4 @@ create 5
 create 6
 up 6
 update 6
+create 7
