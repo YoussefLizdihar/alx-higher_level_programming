@@ -16,3 +16,4 @@ create 6
 up 6
 update 6
 create 7
+up 7
