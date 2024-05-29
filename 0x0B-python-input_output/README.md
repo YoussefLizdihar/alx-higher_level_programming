@@ -24,3 +24,4 @@ create 9
 up 9
 create 10
 up 10
+up 10
