@@ -10,5 +10,5 @@ import json
 
 def from_json_string(my_str):
     """func that returns an object from JSON"""
-    content = json.loads(my_obj)
+    content = json.loads(my_str)
     return content
