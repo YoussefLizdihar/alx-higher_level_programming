@@ -28,3 +28,4 @@ up 10
 create 10
 create 11
 create 12
+create 100
