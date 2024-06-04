@@ -5,3 +5,4 @@ update 1
 create 3-value_argument.js
 create 4-concat.js
 create 4-concat.js
+create 5-to_integer.js
