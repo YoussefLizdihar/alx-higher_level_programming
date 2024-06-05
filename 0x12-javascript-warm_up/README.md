@@ -10,3 +10,4 @@ up 5
 create 6-multi_languages_loop.js
 create  7-multi_c.js
 create 8-square.js
+create 8-square.js again
