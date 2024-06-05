@@ -8,3 +8,4 @@ create 4-concat.js
 create 5-to_integer.js
 up 5
 create 6-multi_languages_loop.js
+create  7-multi_c.js
