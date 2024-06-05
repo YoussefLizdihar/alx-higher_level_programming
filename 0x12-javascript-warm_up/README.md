@@ -12,3 +12,4 @@ create  7-multi_c.js
 create 8-square.js
 create 8-square.js again
 create 9
+create 10
