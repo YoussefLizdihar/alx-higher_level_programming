@@ -2,7 +2,7 @@
 echo "enter your commit message:"
 read gitPush
 
+echo "$gitPush" >> README.md
 git add .
 git commit -m "{$gitPush}"
 git push
-echo "$gitPush" >> README.md
