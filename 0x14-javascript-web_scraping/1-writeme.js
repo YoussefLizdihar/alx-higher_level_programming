@@ -2,8 +2,11 @@
 
 const fs = require('fs');
 
-fs.writeFile(process.argv[2], process.argv[2], err => {
+fs.writeFile(process.argv[2], process.argv[3], 'utf8', err => {
   if (err) {
-    console.err;
+    console.error(err);
     return;
+  }
+  console.log("File written successfully");
 });
+
